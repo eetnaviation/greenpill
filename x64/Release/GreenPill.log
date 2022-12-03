@@ -1,0 +1,9 @@
+﻿  GreenPill.cpp
+C:\Users\renha\source\repos\GreenPill\GreenPill.cpp(43,154): warning C4474: 'wprintf' : too many arguments passed for format string
+C:\Users\renha\source\repos\GreenPill\GreenPill.cpp(43,154): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating code
+  10 of 129 functions ( 7.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GreenPill.vcxproj -> C:\Users\renha\source\repos\GreenPill\x64\Release\GreenPill.exe
